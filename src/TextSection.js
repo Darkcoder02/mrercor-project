@@ -15,7 +15,7 @@ const TextSection = () => {
         start: 'top top',
         end: '+=150%',
         pin: true,
-        scrub: 0.75,
+        scrub: 0.75
       },
     });
 
